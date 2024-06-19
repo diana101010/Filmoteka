@@ -2,20 +2,20 @@
   "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://turbomatrixxxl.github.io/filmoteka",
+  "homepage": "https://github.com/diana101010/Filmoteka",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /filmoteka/"
+    "build": "parcel build src/*.html --public-url https://diana101010.github.io/Filmoteka/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/turbomatrixxxl/filmoteka.git"
+    "url": "git+https://github.com/diana101010/Filmoteka.git"
   },
   "keywords": [],
   "author": "Radu Bogdan Naramzoiu <turbomatrixxxl@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/turbomatrixxxl/filmoteka/issues"
+    "url": "https://github.com/diana101010/Filmoteka/issues"
   },
   "dependencies": {
     "axios": "^1.7.2",
